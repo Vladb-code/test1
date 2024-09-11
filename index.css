@@ -1,0 +1,538 @@
+body {
+  width: 1920px;
+  height: 3190px;
+  background-color: rgb(243, 238, 238);
+}
+
+#infoBorder nav li {
+  margin: 40px;
+  display: inline-block;
+}
+
+#infoBorder li a {
+  font-weight: 100;
+  color: rgb(4, 4, 4);
+  text-decoration: none;
+  font-size:23px;
+}
+
+#infoBorder {
+  width: 1920px;
+  height: 50px;
+  background-color: rgb(243, 238, 238);
+  display: flex;
+  align-items: center;
+}
+.info {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.servicesBorder {
+  margin-top: 20px;
+  width: 1920px;
+  height: 146px;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-07/1688564269_bogatyr-club-p-med-tekstura-foni-vkontakte-19.jpg) ;
+  
+}
+
+#servicesBorderUp {
+  width: 1920px;
+  height: 80px;
+  display: flex;
+}
+
+.logo{
+  margin-top: 5px;
+  margin-left: 245px;
+}
+.nameCompany {
+  color: rgba(149, 240, 31, 0.797);
+  font-size: 20px;
+  font-style: inherit;
+  margin-left: 20px;
+ }
+
+ #servicesBorderUp form { 
+  position: relative; 
+  margin-top: 25px;
+  margin-left:225px; 
+} 
+ #servicesBorderUp input { 
+  width: 250px; 
+  height: 34px; 
+  padding-left: 40px;
+} 
+ #servicesBorderUp button { 
+  position: absolute; 
+  top:5px;
+  left: 3px;
+}
+
+.phoneNum {
+margin-left: 300px;
+margin-top: 35px;
+font-size: 20px;
+color: #f8faf9;
+}
+
+.collback {
+position: absolute;
+margin-left: 1700px;
+margin-top: 20px;
+}
+
+.collbackButton {
+  width: 170px;
+  height: 40px;
+}
+
+#infoBorder hr {
+  width: 1918px;
+  size: 3px;
+}
+
+#varietiesBorder {
+  width: 1920px;
+  height: 50px;
+  background-color: rgb(243, 238, 238);
+  display: flex;
+  align-items: center;
+}
+
+#varietiesBorder nav li {
+  margin: 20px;
+  display: inline-block;
+}
+
+#varietiesBorder li a {
+  font-weight: 100;
+  color: rgb(15, 67, 30);
+  text-decoration: none;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.varieties {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.advertising {
+  width: 1920px;
+  height: 604px;
+  background-color: white;
+  display: flex;
+  overflow: hidden;
+}
+
+.promotionTitle {
+  margin-top: 150px;
+  margin-left:150px;
+  font-size: 50px;
+  font-family: Snell Roundhand, cursive;
+  color: rgb(16, 64, 23);
+}
+
+.promotionText {
+width: 500px;
+margin-left: 305px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 23px;
+}
+
+#promotionButton { 
+position: absolute;
+margin-left: 470px;
+}
+
+#promotionButton button {
+  width: 150px;
+  height: 40px;
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#promotiondrevo {
+  width: 600px;
+  height: 600px;
+}
+
+#promotiondrevo img {
+  position: relative;
+  width: 470px;
+  bottom: 110px;
+}
+
+.advertisingСircle {
+ position: relative; 
+ width: 800px;
+ height: 800px;
+ border-radius: 50%;
+ background-color: rgba(10, 82, 21, 0.817);
+ bottom: 90px;
+ margin-left: 200px;
+}
+
+.advertisingСircleTwo {
+ position: relative; 
+ width: 680px;
+ height: 680px;
+ border-radius: 50%;
+ background-color: white;
+ top: 60px;
+ margin-left: 58px;
+ box-shadow: 5px 5px 50px 10px #f8faf9;
+}
+
+.imgTree {
+position: relative;
+width: 600px;
+bottom: -40px;
+margin-left: 35px;
+}
+
+#specialOffers {
+  width: 990px;
+  height: 430px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  display: flex;
+  
+}
+
+#specialOffers h1 {
+  color: rgb(12, 56, 35);
+}
+
+.specialOffersOne {
+  position: absolute;
+  margin-top: 67px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.imgSpecialOffers {
+  
+  width: 100px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.textSpecialOffers {
+  position: absolute;
+  width: 130px;
+  margin-top: 180px;
+  text-align: center;
+  margin-left: 45px;
+}
+
+.buttonSpecialOffers {
+  width: 100px;
+  height: 40px;
+}
+.specialOffersTwo {
+  position: absolute;
+  margin-top: 67px;
+  margin-left: 255px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.specialOffersThree {
+  position: absolute;
+  margin-top: 67px;
+  margin-left: 510px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.specialOffersFour {
+  position: absolute;
+  margin-top: 67px;
+  margin-left: 765px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.conteinerBonusesMap {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1120px;
+  height: 212px;
+  display: flex;
+}
+
+.bonuses {
+  width: 540px;
+  height: 212px;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-07/1688564269_bogatyr-club-p-med-tekstura-foni-vkontakte-19.jpg);
+  display: flex;
+}
+
+.storeMap {
+  margin-left: 40px;
+  width: 540px;
+  height: 212px;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-07/1688564269_bogatyr-club-p-med-tekstura-foni-vkontakte-19.jpg);
+  display: flex;
+}
+
+.infoBonuses {
+  width: 250px;
+  margin-left: 20px;
+  text-align: center;
+
+}
+
+.e-mailBonuses {
+  margin-top: 20px;
+}
+
+.imgEmail {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 150px;
+  height: 140px;
+  text-align: center; 
+}
+
+.infoStoreMap {
+  width: 250px;
+  margin-left: 20px;
+  text-align: center;
+}
+
+.mapButton {
+  margin-top: 45px;
+  width: 150px;
+  height: 23px;
+  background-color: white;
+  border: none;
+}
+
+.imgMap {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 150px;
+  height: 140px;
+  text-align: center;
+}
+
+.conteinerTable {
+  width: 1110px;
+  height: 358px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(225, 223, 223);
+}
+
+#table{
+  table-layout: fixed;
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+  
+}
+
+#table a {
+  font-size: 25px;
+  text-decoration: none;
+  color: rgb(18, 77, 54);
+} 
+
+#table th {
+  border: 1px solid rgb(243, 238, 238);
+}
+
+#viewed {
+  width: 990px;
+  height: 430px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  display: flex;
+}
+
+#viewed h1 {
+  color: rgb(12, 56, 35);
+}
+
+.viewedOne {
+  position: absolute;
+  margin-top: 67px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.imgViewed {
+  
+  width: 100px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.textViewed {
+  position: absolute;
+  width: 130px;
+  margin-top: 180px;
+  text-align: center;
+  margin-left: 45px;
+}
+
+.buttonViewed {
+  width: 100px;
+  height: 40px;
+}
+.viewedTwo {
+  position: absolute;
+  margin-top: 67px;
+  margin-left: 255px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.viewedThree {
+  position: absolute;
+  margin-top: 67px;
+  margin-left: 510px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.viewedFoo {
+  position: absolute;
+  margin-top: 67px;
+  margin-left: 765px;
+  width: 225px;
+  height: 363px;
+  background-color: white;
+  display: flex;
+}
+
+.conteinerFooter {
+  margin-top: 150px;
+  width: 1920px;
+  height: 457px;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-07/1688564269_bogatyr-club-p-med-tekstura-foni-vkontakte-19.jpg);
+}
+
+#footer {
+  display: flex;
+}
+
+#footer li a {
+text-decoration: none;
+font-size: 20px;
+color: black;
+}
+
+.categoryFooterOne {
+  margin-top: 40px;
+  margin-left: 405px;
+  width: 255px;
+  height: 283px;
+}
+
+#footer li  {
+  list-style-type: none;
+}
+
+#footer ul {
+  margin-left: 0; 
+  padding-left: 0; 
+ }
+
+ .categoryFooterTwo {
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 255px;
+  height: 253px;
+}
+
+.categoryFooterThree {
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 255px;
+  height: 253px;
+}
+
+.categoryFooterFoo {
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 255px;
+  height: 253px;
+}
+
+#footerLine {
+  width: 1110px;
+  height: 45px;
+  margin-left: 405px;
+  margin-top: 50px;
+  display:flex;
+  align-items: center;
+  
+}
+
+#footerLine img {
+  width: 45px;
+  height: 45px;
+  
+}
+
+#footerLine a {
+  margin-left: 20px;
+}
+
+.adress {
+  margin-left: 200px;
+}
+
+.phone {
+  margin-left: 100px;
+}
+
+#footerLine button {
+margin-left: 120px;
+}
+
+.confidentiality {
+  width: 1110px;
+  display: flex;
+  margin-left: 405px;
+  margin-top: 50px;
+}
+
+.confidentialityText {
+margin-left: 10px ;
+}
+
+.confidentialityPolit {
+margin-left: 550px;
+}
+
